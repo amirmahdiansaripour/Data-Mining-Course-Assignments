@@ -6,8 +6,6 @@
 
 ![im2](./photos/barplot.png)
 
-![im3](./photos/Chi-Squared-test.JPG)
-
 2. Regression: Employing linear regression and normality plots.
 
 ![im4](./photos/Regression2.png)
